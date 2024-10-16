@@ -1,0 +1,14 @@
+*.class
+*.log
+
+# compilied code
+*target
+out
+
+# Editors (IntelliJ, Bloop, Metals, bsp sbt lang server)
+.idea
+.bloop
+.metals
+project/metals.sbt
+project/project
+.bsp
